@@ -10,20 +10,20 @@ https://trello.com/b/37IIkVmJ/team-brokurly
 #### :call_me_hand: Team BroKurly
 ![](https://images.velog.io/images/kho5420/post/b20eb17f-b0cd-4c53-bc68-9a5820ae5d1a/image.png)
 + 저희는 어떻게 하다보니 남자분들끼리 모이게 되어서 bro + kurly 라는 이름의 `brokurly`라는 이름으로 팀명을 정했습니다.
-### :man-man-boy-boy: FrontEnd
+### :man:‍:man:‍:boy:‍:boy:‍ FrontEnd
 + 강수명
 + 이동훈
 + 허덕형
 + 김제형
-### :man-boy: BackEnd
-+ 김동현
-+ 김형욱 (나)
+### :man:‍:boy:‍ BackEnd
++ 김동현 (PM)
++ 김형욱
 ## :broccoli: 프로젝트 기간
 2020.10. 19 ~ 2020. 10. 30 약 2주간 진행
 ## :broccoli: 프로젝트 영상
 https://www.youtube.com/watch?v=PfhrUruCmWU
 ## :broccoli: 기술 스택
-### :man-man-boy-boy: FrontEnd
+### :man:‍:man:‍:boy:‍:boy:‍ FrontEnd
 + HTML / CSS
 + JavaScript
 + React(CRA 세팅)
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=PfhrUruCmWU
 + Redux(ReactRedux, Persist, logger)
 + SweatAlert
 + IMport
-### :man:‍:man:‍ BackEnd
+### :man:‍:boy:‍ BackEnd
 + Python
 + Django
 + CORS Header
@@ -43,13 +43,13 @@ https://www.youtube.com/watch?v=PfhrUruCmWU
 + Twilio (문자 인증 SMS 서비스)
 + AqeuryTool (데이터베이스 모델링)
 + AWS EC2 서버에 RDS 인스턴스를 연결하여 배포
-### :man-wrestling: 협업 도구
+### :man::wrestling: 협업 도구
 + Slack
 + Git + GitHub
 + Trello를 이용해 일정관리 및 작업 현황 확인
 + Postman (API 관리)
 ## :broccoli: 구현한 기능
-### :man-man-boy-boy: Front End
+### :man:‍:man:‍:boy:‍:boy:‍ Front End
 ### 메인페이지
 + 메인배너 및 섹션별 상품 슬라이더 직접 구현
 + MD의 추천 카테고리별 상품 렌더링 구현
@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=PfhrUruCmWU
 + 적립금 반영
 ### 주문서
 + Iamport 결제API를 이용하여 결제창 구현
-### :man-boy: Back End
+### :man:‍:boy:‍ Back End
 ### 메인페이지
 + Setion 별 상품 리스트 API
 + MD의 추천 카테고리별 필터링 API
