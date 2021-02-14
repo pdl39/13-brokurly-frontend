@@ -8,6 +8,9 @@
 <br/>
 
 ![Main Page](/assets/gifs/brokurly-main-page.gif)
+
+<br/>
+
 ![Recently Seen](/assets/gifs/brokurly-recently-seen.gif)
 
 <br/>
