@@ -1,3 +1,25 @@
+# BroKurly
+### An online fresh products market Market Kurly clone project
+<br/>
+
+## FE stack
+- React.js
+- Scss
+<br/>
+
+![Main Page](/assets/gifs/brokurly-main-page.gif)
+![Recently Seen](/assets/gifs/brokurly-recently-seen.gif)
+
+<br/>
+
+Created 2020.10.
+<br/>
+<br/>
+
+See below for the original project readme outlining the project overview:
+
+-----------------------------------------------------------------
+
 # Team BroKurly
 ### Trello
 https://trello.com/b/37IIkVmJ/team-brokurly
